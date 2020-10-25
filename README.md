@@ -1,5 +1,5 @@
 # OpenGLJava
-![alt-text](https://i.imgur.com/7LaaU9a.mp4)
+![alt-text](https://i.imgur.com/cFQzJbI.png)
 <br>
 A showcase of graphics programming in OpenGl using C++
 <br>
