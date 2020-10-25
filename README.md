@@ -1,4 +1,6 @@
 # OpenGLJava
+![alt-text](https://i.imgur.com/7LaaU9a.gif)
+<br>
 A showcase of graphics programming in OpenGl using C++
 <br>
-[img]https://i.imgur.com/7LaaU9a.gif[/img]
+to play, run compile.bat then run.bat
